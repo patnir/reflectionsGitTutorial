@@ -1,0 +1,7 @@
+This is the second reflections file
+
+Stating the obvious is the best thing to do right now
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
